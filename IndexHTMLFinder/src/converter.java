@@ -25,30 +25,33 @@ public class converter {
         FileWriter writer = new FileWriter(controllerFile);
         BufferedWriter bufferedWriter = new BufferedWriter(writer);
         bufferedWriter.append(controllerTemplate);
-        BufferedWriter bwRouter = null;
+        FileWriter routerWriter = new FileWriter(routerFile, true);
+        
+        BufferedWriter bwRouter = new BufferedWriter(routerWriter);
         while (txtReader.hasNextLine()) {
             String data = txtReader.nextLine();
             String folderName = data.substring(24);
             String folderName2 = folderName.replace("\\index.html", "");
             String formattedFolderName = folderName2.replace("-", "_");
             String functionTemplate = "public function page_" + formattedFolderName + "(){" + //
-                                "            {\r\n" + //
-                                "     return view('news/" + folderName + "/index');\r\n" + //
+                                "     return view('news/" + folderName2 + "/index');\r\n" + //
                                 "}";
             bufferedWriter.append(functionTemplate);
             
-            String pagesRoutes = "$routes->get(" + "'"  + folderName2 + "'," + "'News::page_" + formattedFolderName + "');\n";
-            FileWriter routerWriter = new FileWriter(routerFile);
-            bwRouter = new BufferedWriter(routerWriter);
+            String pagesRoutes = "$routes->get(" + "'/"  + folderName2 + "'," + "'News::page_" + formattedFolderName + "');\r\n";
+            
             bwRouter.append(pagesRoutes);
             
             Path newsViewPath = Paths.get("../../CI4/app/Views/news/" + folderName2);
+            
             Files.createDirectory(newsViewPath);
-            Path sourceHtmlPath = Paths.get("D:/Kuliah/Proyek Informatika/rugbyindonesia.or.id/" + folderName2 + "/index.html");
+            String sourceContentPath = "D:/Kuliah/Proyek Informatika/rugbyindonesia.or.id/"; //MASUKKIN DIRECTORY RUGBY DISINI
+            Path sourceHtmlPath = Paths.get( sourceContentPath + folderName2 + "/index.html");
             Path destination = Paths.get("../../CI4/app/Views/news/" + folderName2 + "/index.php");
             Files.copy(sourceHtmlPath, destination);
           }
           txtReader.close();
+          bufferedWriter.append("}");
           bufferedWriter.close();
           bwRouter.close();
     }
