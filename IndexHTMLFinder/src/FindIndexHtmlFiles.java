@@ -6,7 +6,7 @@ import org.jsoup.nodes.Element;
 public class FindIndexHtmlFiles {
 
     public static void main(String[] args) {
-        String directoryPath = "../rugbyindonesia.or.id";
+        String directoryPath = "../../rugbyindonesia.or.id";
         File directory = new File(directoryPath);
 
         if (directory.exists() && directory.isDirectory()) {
