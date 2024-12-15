@@ -46,7 +46,7 @@ public class converter {
             Path newsViewPath = Paths.get("../../CI4/app/Views/news/" + folderName2);
 
             Files.createDirectory(newsViewPath);
-            String sourceContentPath = "C:/Users/aldir/OneDrive/Dokumen/Semester_9/Proyek Informatika/WordpressToCI4/rugbyindonesia.or.id/"; // MASUKKIN
+            String sourceContentPath = "C:/Users/aldir/OneDrive/Desktop/rugbyindonesia.or.id/"; // MASUKKIN
             Path sourceHtmlPath = Paths.get(sourceContentPath + folderName2 + "/index.html");
             Path destination = Paths.get("../../CI4/app/Views/news/" + folderName2 + "/index.php");
             Files.copy(sourceHtmlPath, destination);
