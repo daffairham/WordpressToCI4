@@ -1,0 +1,624 @@
+CRITICAL - 2024-12-01 18:52:16 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "news/2012-indonesian-rugby-charity-lunch-was-an-overwhelming-success-en/index.php"
+[Method: GET, Route: 2012-indonesian-rugby-charity-lunch-was-an-overwhelming-success-en]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('news/2012-indonesian-rugby-charity-lunch-was-an-overwhelming-success-en/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('news/2012-indonesian-rugby-charity-lunch-was-an-overwhelming-success-en/index', [], true)
+ 3 APPPATH\Controllers\News.php(18): view('news/2012-indonesian-rugby-charity-lunch-was-an-overwhelming-success-en/index')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\News->page_2012_indonesian_rugby_charity_lunch_was_an_overwhelming_success_en()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 18:54:57 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "news/2012-skybattle-schools-rugby-en/index.php"
+[Method: GET, Route: 2012-skybattle-schools-rugby-en]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('news/2012-skybattle-schools-rugby-en/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('news/2012-skybattle-schools-rugby-en/index', [], true)
+ 3 APPPATH\Controllers\News.php(31): view('news/2012-skybattle-schools-rugby-en/index')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\News->page_2012_skybattle_schools_rugby_en()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 18:56:12 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "news/2012-skybattle-schools-rugby-en/index.php"
+[Method: GET, Route: 2012-skybattle-schools-rugby-en]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('news/2012-skybattle-schools-rugby-en/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('news/2012-skybattle-schools-rugby-en/index', [], true)
+ 3 APPPATH\Controllers\News.php(31): view('news/2012-skybattle-schools-rugby-en/index')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\News->page_2012_skybattle_schools_rugby_en()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 18:56:49 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "news/2012-skybattle-schools-rugby-en/index.php"
+[Method: GET, Route: 2012-skybattle-schools-rugby-en]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('news/2012-skybattle-schools-rugby-en/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('news/2012-skybattle-schools-rugby-en/index', [], true)
+ 3 APPPATH\Controllers\News.php(30): view('news/2012-skybattle-schools-rugby-en/index')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\News->page_2012_skybattle_schools_rugby_en()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 18:56:49 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "news/2012-skybattle-schools-rugby-en/index.php"
+[Method: GET, Route: 2012-skybattle-schools-rugby-en]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('news/2012-skybattle-schools-rugby-en/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('news/2012-skybattle-schools-rugby-en/index', [], true)
+ 3 APPPATH\Controllers\News.php(30): view('news/2012-skybattle-schools-rugby-en/index')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\News->page_2012_skybattle_schools_rugby_en()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 18:56:50 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "news/2012-skybattle-schools-rugby-en/index.php"
+[Method: GET, Route: 2012-skybattle-schools-rugby-en]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('news/2012-skybattle-schools-rugby-en/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('news/2012-skybattle-schools-rugby-en/index', [], true)
+ 3 APPPATH\Controllers\News.php(30): view('news/2012-skybattle-schools-rugby-en/index')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\News->page_2012_skybattle_schools_rugby_en()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 18:56:50 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "news/2012-skybattle-schools-rugby-en/index.php"
+[Method: GET, Route: 2012-skybattle-schools-rugby-en]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('news/2012-skybattle-schools-rugby-en/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('news/2012-skybattle-schools-rugby-en/index', [], true)
+ 3 APPPATH\Controllers\News.php(30): view('news/2012-skybattle-schools-rugby-en/index')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\News->page_2012_skybattle_schools_rugby_en()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 18:57:07 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "news/2012-skybattle-schools-rugby-en/index.php"
+[Method: GET, Route: 2012-skybattle-schools-rugby-en]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('news/2012-skybattle-schools-rugby-en/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('news/2012-skybattle-schools-rugby-en/index', [], true)
+ 3 APPPATH\Controllers\News.php(29): view('news/2012-skybattle-schools-rugby-en/index')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\News->page_2012_skybattle_schools_rugby_en()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 18:58:32 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "news/2012-skybattle-schools-rugby-en/index.php"
+[Method: GET, Route: 2012-skybattle-schools-rugby-en]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('news/2012-skybattle-schools-rugby-en/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('news/2012-skybattle-schools-rugby-en/index', [], true)
+ 3 APPPATH\Controllers\News.php(29): view('news/2012-skybattle-schools-rugby-en/index')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\News->page_2012_skybattle_schools_rugby_en()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 18:58:32 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "news/2012-skybattle-schools-rugby-en/index.php"
+[Method: GET, Route: 2012-skybattle-schools-rugby-en]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('news/2012-skybattle-schools-rugby-en/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('news/2012-skybattle-schools-rugby-en/index', [], true)
+ 3 APPPATH\Controllers\News.php(29): view('news/2012-skybattle-schools-rugby-en/index')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\News->page_2012_skybattle_schools_rugby_en()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 18:58:32 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "news/2012-skybattle-schools-rugby-en/index.php"
+[Method: GET, Route: 2012-skybattle-schools-rugby-en]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('news/2012-skybattle-schools-rugby-en/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('news/2012-skybattle-schools-rugby-en/index', [], true)
+ 3 APPPATH\Controllers\News.php(29): view('news/2012-skybattle-schools-rugby-en/index')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\News->page_2012_skybattle_schools_rugby_en()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 18:58:32 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "news/2012-skybattle-schools-rugby-en/index.php"
+[Method: GET, Route: 2012-skybattle-schools-rugby-en]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('news/2012-skybattle-schools-rugby-en/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('news/2012-skybattle-schools-rugby-en/index', [], true)
+ 3 APPPATH\Controllers\News.php(29): view('news/2012-skybattle-schools-rugby-en/index')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\News->page_2012_skybattle_schools_rugby_en()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 18:59:02 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "news/2012-indonesian-rugby-charity-lunch-was-an-overwhelming-success-en/index.php"
+[Method: GET, Route: 2012-indonesian-rugby-charity-lunch-was-an-overwhelming-success-en]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('news/2012-indonesian-rugby-charity-lunch-was-an-overwhelming-success-en/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('news/2012-indonesian-rugby-charity-lunch-was-an-overwhelming-success-en/index', [], true)
+ 3 APPPATH\Controllers\News.php(19): view('news/2012-indonesian-rugby-charity-lunch-was-an-overwhelming-success-en/index')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\News->page_2012_indonesian_rugby_charity_lunch_was_an_overwhelming_success_en()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 18:59:03 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "news/2012-indonesian-rugby-charity-lunch-was-an-overwhelming-success-en/index.php"
+[Method: GET, Route: 2012-indonesian-rugby-charity-lunch-was-an-overwhelming-success-en]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('news/2012-indonesian-rugby-charity-lunch-was-an-overwhelming-success-en/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('news/2012-indonesian-rugby-charity-lunch-was-an-overwhelming-success-en/index', [], true)
+ 3 APPPATH\Controllers\News.php(19): view('news/2012-indonesian-rugby-charity-lunch-was-an-overwhelming-success-en/index')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\News->page_2012_indonesian_rugby_charity_lunch_was_an_overwhelming_success_en()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 18:59:11 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "news/2012-skybattle-schools-rugby-en/index.php"
+[Method: GET, Route: 2012-skybattle-schools-rugby-en]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('news/2012-skybattle-schools-rugby-en/index.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('news/2012-skybattle-schools-rugby-en/index', [], true)
+ 3 APPPATH\Controllers\News.php(29): view('news/2012-skybattle-schools-rugby-en/index')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\News->page_2012_skybattle_schools_rugby_en()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 19:00:25 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "layerslider.css@ver=6.11.5.css"
+[Method: GET, Route: wp-content/plugins/LayerSlider/assets/static/layerslider/css/layerslider.css@ver=6.11.5.css]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('wp-content/plugins/LayerSlider/assets/static/layerslider/css/layerslider.css@ver=6.11.5.css')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('wp-content/plugins/LayerSlider/assets/static/layerslider/css/layerslider.css@ver=6.11.5.css')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 19:00:25 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "style.min.css@ver=6.6.2.css"
+[Method: GET, Route: wp-includes/css/dist/block-library/style.min.css@ver=6.6.2.css]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('wp-includes/css/dist/block-library/style.min.css@ver=6.6.2.css')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('wp-includes/css/dist/block-library/style.min.css@ver=6.6.2.css')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 19:00:25 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "styles.css@ver=5.9.8.css"
+[Method: GET, Route: wp-content/plugins/contact-form-7/includes/css/styles.css@ver=5.9.8.css]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('wp-content/plugins/contact-form-7/includes/css/styles.css@ver=5.9.8.css')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('wp-content/plugins/contact-form-7/includes/css/styles.css@ver=5.9.8.css')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 19:00:25 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "rs6.css@ver=6.3.9.css"
+[Method: GET, Route: wp-content/plugins/revslider/public/assets/css/rs6.css@ver=6.3.9.css]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('wp-content/plugins/revslider/public/assets/css/rs6.css@ver=6.3.9.css')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('wp-content/plugins/revslider/public/assets/css/rs6.css@ver=6.3.9.css')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 19:00:25 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "style.css@ver=6.6.2.css"
+[Method: GET, Route: wp-content/themes/goodday/style.css@ver=6.6.2.css]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('wp-content/themes/goodday/style.css@ver=6.6.2.css')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('wp-content/themes/goodday/style.css@ver=6.6.2.css')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 19:00:25 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "style.css@ver=1.0.0.css"
+[Method: GET, Route: wp-content/themes/RugbyIndonesiaV3/style.css@ver=1.0.0.css]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('wp-content/themes/RugbyIndonesiaV3/style.css@ver=1.0.0.css')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('wp-content/themes/RugbyIndonesiaV3/style.css@ver=1.0.0.css')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 19:00:26 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "style.css@ver=1.0.0.css"
+[Method: GET, Route: wp-content/themes/goodday/css/style.css@ver=1.0.0.css]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('wp-content/themes/goodday/css/style.css@ver=1.0.0.css')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('wp-content/themes/goodday/css/style.css@ver=1.0.0.css')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 19:00:26 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "adaptive.css@ver=1.0.0.css"
+[Method: GET, Route: wp-content/themes/goodday/css/adaptive.css@ver=1.0.0.css]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('wp-content/themes/goodday/css/adaptive.css@ver=1.0.0.css')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('wp-content/themes/goodday/css/adaptive.css@ver=1.0.0.css')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 19:00:26 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "retina.css@ver=1.0.0.css"
+[Method: GET, Route: wp-content/themes/goodday/css/retina.css@ver=1.0.0.css]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('wp-content/themes/goodday/css/retina.css@ver=1.0.0.css')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('wp-content/themes/goodday/css/retina.css@ver=1.0.0.css')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 19:00:26 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "ilightbox.css@ver=2.1.5.css"
+[Method: GET, Route: wp-content/plugins/ilightbox/css/src/css/ilightbox.css@ver=2.1.5.css]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('wp-content/plugins/ilightbox/css/src/css/ilightbox.css@ver=2.1.5.css')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('wp-content/plugins/ilightbox/css/src/css/ilightbox.css@ver=2.1.5.css')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 19:00:26 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "dark-skin.css@ver=2.2.0.css"
+[Method: GET, Route: wp-content/themes/goodday/css/ilightbox-skins/dark-skin.css@ver=2.2.0.css]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('wp-content/themes/goodday/css/ilightbox-skins/dark-skin.css@ver=2.2.0.css')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('wp-content/themes/goodday/css/ilightbox-skins/dark-skin.css@ver=2.2.0.css')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 19:00:26 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "goodday.css@ver=1.0.0.css"
+[Method: GET, Route: wp-content/uploads/cmsms_styles/goodday.css@ver=1.0.0.css]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('wp-content/uploads/cmsms_styles/goodday.css@ver=1.0.0.css')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('wp-content/uploads/cmsms_styles/goodday.css@ver=1.0.0.css')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 19:00:26 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "fontello.css@ver=1.0.0.css"
+[Method: GET, Route: wp-content/themes/goodday/css/fontello.css@ver=1.0.0.css]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('wp-content/themes/goodday/css/fontello.css@ver=1.0.0.css')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('wp-content/themes/goodday/css/fontello.css@ver=1.0.0.css')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 19:00:26 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "animate.css@ver=1.0.0.css"
+[Method: GET, Route: wp-content/themes/goodday/css/animate.css@ver=1.0.0.css]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('wp-content/themes/goodday/css/animate.css@ver=1.0.0.css')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('wp-content/themes/goodday/css/animate.css@ver=1.0.0.css')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 19:00:26 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "frontend-style.css@ver=1.0.0.css"
+[Method: GET, Route: wp-content/themes/goodday/gutenberg/css/frontend-style.css@ver=1.0.0.css]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('wp-content/themes/goodday/gutenberg/css/frontend-style.css@ver=1.0.0.css')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('wp-content/themes/goodday/gutenberg/css/frontend-style.css@ver=1.0.0.css')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 19:00:26 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "ilightbox_front.css@ver=1.5.3.css"
+[Method: GET, Route: wp-content/plugins/ilightbox/css/ilightbox_front.css@ver=1.5.3.css]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('wp-content/plugins/ilightbox/css/ilightbox_front.css@ver=1.5.3.css')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('wp-content/plugins/ilightbox/css/ilightbox_front.css@ver=1.5.3.css')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 19:00:26 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "jquery.min.js@ver=3.7.1"
+[Method: GET, Route: wp-includes/js/jquery/jquery.min.js@ver=3.7.1]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('wp-includes/js/jquery/jquery.min.js@ver=3.7.1')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('wp-includes/js/jquery/jquery.min.js@ver=3.7.1')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 19:00:26 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "jquery-migrate.min.js@ver=3.4.1"
+[Method: GET, Route: wp-includes/js/jquery/jquery-migrate.min.js@ver=3.4.1]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('wp-includes/js/jquery/jquery-migrate.min.js@ver=3.4.1')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('wp-includes/js/jquery/jquery-migrate.min.js@ver=3.4.1')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 19:00:26 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "layerslider.utils.js@ver=6.11.5"
+[Method: GET, Route: wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.utils.js@ver=6.11.5]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.utils.js@ver=6.11.5')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.utils.js@ver=6.11.5')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 19:00:26 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "layerslider.kreaturamedia.jquery.js@ver=6.11.5"
+[Method: GET, Route: wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.kreaturamedia.jquery.js@ver=6.11.5]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.kreaturamedia.jquery.js@ver=6.11.5')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.kreaturamedia.jquery.js@ver=6.11.5')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 19:00:26 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "layerslider.transitions.js@ver=6.11.5"
+[Method: GET, Route: wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.transitions.js@ver=6.11.5]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.transitions.js@ver=6.11.5')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.transitions.js@ver=6.11.5')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 19:00:26 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "rbtools.min.js@ver=6.3.9"
+[Method: GET, Route: wp-content/plugins/revslider/public/assets/js/rbtools.min.js@ver=6.3.9]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('wp-content/plugins/revslider/public/assets/js/rbtools.min.js@ver=6.3.9')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('wp-content/plugins/revslider/public/assets/js/rbtools.min.js@ver=6.3.9')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 19:00:26 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "rs6.min.js@ver=6.3.9"
+[Method: GET, Route: wp-content/plugins/revslider/public/assets/js/rs6.min.js@ver=6.3.9]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('wp-content/plugins/revslider/public/assets/js/rs6.min.js@ver=6.3.9')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('wp-content/plugins/revslider/public/assets/js/rs6.min.js@ver=6.3.9')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 19:00:26 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "jsLibraries.min.js@ver=1.0.0"
+[Method: GET, Route: wp-content/themes/goodday/js/jsLibraries.min.js@ver=1.0.0]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('wp-content/themes/goodday/js/jsLibraries.min.js@ver=1.0.0')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('wp-content/themes/goodday/js/jsLibraries.min.js@ver=1.0.0')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 19:00:26 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "jquery.iLightBox.min.js@ver=2.2.0"
+[Method: GET, Route: wp-content/themes/goodday/js/jquery.iLightBox.min.js@ver=2.2.0]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('wp-content/themes/goodday/js/jquery.iLightBox.min.js@ver=2.2.0')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('wp-content/themes/goodday/js/jquery.iLightBox.min.js@ver=2.2.0')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 19:00:26 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "jquery.mousewheel.js@ver=3.0.6"
+[Method: GET, Route: wp-content/plugins/ilightbox/scripts/jquery.mousewheel.js@ver=3.0.6]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('wp-content/plugins/ilightbox/scripts/jquery.mousewheel.js@ver=3.0.6')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('wp-content/plugins/ilightbox/scripts/jquery.mousewheel.js@ver=3.0.6')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 19:00:26 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "jquery.requestAnimationFrame.js@ver=1.0.0"
+[Method: GET, Route: wp-content/plugins/ilightbox/scripts/jquery.requestAnimationFrame.js@ver=1.0.0]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('wp-content/plugins/ilightbox/scripts/jquery.requestAnimationFrame.js@ver=1.0.0')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('wp-content/plugins/ilightbox/scripts/jquery.requestAnimationFrame.js@ver=1.0.0')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 19:00:26 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "ilightbox.packed.js@ver=2.1.5"
+[Method: GET, Route: wp-content/plugins/ilightbox/scripts/ilightbox.packed.js@ver=2.1.5]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('wp-content/plugins/ilightbox/scripts/ilightbox.packed.js@ver=2.1.5')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('wp-content/plugins/ilightbox/scripts/ilightbox.packed.js@ver=2.1.5')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 19:00:26 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "ilightbox.init.js@ver=6.6.2"
+[Method: GET, Route: wp-content/plugins/ilightbox/scripts/ilightbox.init.js@ver=6.6.2]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('wp-content/plugins/ilightbox/scripts/ilightbox.init.js@ver=6.6.2')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('wp-content/plugins/ilightbox/scripts/ilightbox.init.js@ver=6.6.2')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 19:00:27 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "jquery.megaMenu.js@ver=1.0.0"
+[Method: GET, Route: wp-content/plugins/cmsms-mega-menu/js/jquery.megaMenu.js@ver=1.0.0]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('wp-content/plugins/cmsms-mega-menu/js/jquery.megaMenu.js@ver=1.0.0')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('wp-content/plugins/cmsms-mega-menu/js/jquery.megaMenu.js@ver=1.0.0')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 19:00:27 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "hooks.min.js@ver=2810c76e705dd1a53b18"
+[Method: GET, Route: wp-includes/js/dist/hooks.min.js@ver=2810c76e705dd1a53b18]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('wp-includes/js/dist/hooks.min.js@ver=2810c76e705dd1a53b18')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('wp-includes/js/dist/hooks.min.js@ver=2810c76e705dd1a53b18')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 19:00:27 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "i18n.min.js@ver=5e580eb46a90c2b997e6"
+[Method: GET, Route: wp-includes/js/dist/i18n.min.js@ver=5e580eb46a90c2b997e6]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('wp-includes/js/dist/i18n.min.js@ver=5e580eb46a90c2b997e6')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('wp-includes/js/dist/i18n.min.js@ver=5e580eb46a90c2b997e6')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 19:00:27 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "index.js@ver=5.9.8"
+[Method: GET, Route: wp-content/plugins/contact-form-7/includes/swv/js/index.js@ver=5.9.8]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('wp-content/plugins/contact-form-7/includes/swv/js/index.js@ver=5.9.8')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('wp-content/plugins/contact-form-7/includes/swv/js/index.js@ver=5.9.8')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 19:00:27 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "index.js@ver=5.9.8"
+[Method: GET, Route: wp-content/plugins/contact-form-7/includes/js/index.js@ver=5.9.8]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('wp-content/plugins/contact-form-7/includes/js/index.js@ver=5.9.8')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('wp-content/plugins/contact-form-7/includes/js/index.js@ver=5.9.8')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 19:00:27 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "jqueryLibraries.min.js@ver=1.0.0"
+[Method: GET, Route: wp-content/themes/goodday/js/jqueryLibraries.min.js@ver=1.0.0]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('wp-content/themes/goodday/js/jqueryLibraries.min.js@ver=1.0.0')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('wp-content/themes/goodday/js/jqueryLibraries.min.js@ver=1.0.0')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 19:00:27 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "scrollspy.js@ver=1.0.0"
+[Method: GET, Route: wp-content/themes/goodday/js/scrollspy.js@ver=1.0.0]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('wp-content/themes/goodday/js/scrollspy.js@ver=1.0.0')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('wp-content/themes/goodday/js/scrollspy.js@ver=1.0.0')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 19:00:27 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "jquery.script.js@ver=1.0.0"
+[Method: GET, Route: wp-content/themes/goodday/js/jquery.script.js@ver=1.0.0]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('wp-content/themes/goodday/js/jquery.script.js@ver=1.0.0')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('wp-content/themes/goodday/js/jquery.script.js@ver=1.0.0')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 19:00:27 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "jquery.tweet.min.js@ver=1.3.1"
+[Method: GET, Route: wp-content/themes/goodday/js/jquery.tweet.min.js@ver=1.3.1]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('wp-content/themes/goodday/js/jquery.tweet.min.js@ver=1.3.1')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('wp-content/themes/goodday/js/jquery.tweet.min.js@ver=1.3.1')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
+CRITICAL - 2024-12-01 19:00:27 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "comment-reply.min.js@ver=6.6.2"
+[Method: GET, Route: wp-includes/js/comment-reply.min.js@ver=6.6.2]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('wp-includes/js/comment-reply.min.js@ver=6.6.2')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('wp-includes/js/comment-reply.min.js@ver=6.6.2')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('D:\\Kuliah\\Proyek Informatika\\WordpressToCI4\\CI4\\public\\index.php')
