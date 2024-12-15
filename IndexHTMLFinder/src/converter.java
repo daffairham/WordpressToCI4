@@ -46,7 +46,7 @@ public class converter {
             Path newsViewPath = Paths.get("../../CI4/app/Views/news/" + folderName2);
 
             Files.createDirectory(newsViewPath);
-            String sourceContentPath = "C:/Users/aldir/OneDrive/Desktop/rugbyindonesia.or.id/"; // MASUKKIN
+            String sourceContentPath = ""; // MASUKKAN PATH DIRECTORY RUGBYINDONESIA
             Path sourceHtmlPath = Paths.get(sourceContentPath + folderName2 + "/index.html");
             Path destination = Paths.get("../../CI4/app/Views/news/" + folderName2 + "/index.php");
             Files.copy(sourceHtmlPath, destination);
